@@ -8,7 +8,6 @@
 #define new DEBUG_NEW
 #endif
 
-
 // 唯一的应用程序对象
 
 CWinApp theApp;
