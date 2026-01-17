@@ -1,9 +1,9 @@
-﻿// RemoteCtrl.cpp : 此文件包含 "main" 函数。程序执行将在此处开始并结束。
+﻿// RemoteServer.cpp : 此文件包含 "main" 函数。程序执行将在此处开始并结束。
 //
 
 #include "pch.h"
 #include "framework.h"
-#include "RemoteCtrl.h"
+#include "RemoteServer.h"
 
 #ifdef _DEBUG
 #define new DEBUG_NEW

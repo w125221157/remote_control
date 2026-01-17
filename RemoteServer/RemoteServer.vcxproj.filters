@@ -24,7 +24,7 @@
     <ClInclude Include="Resource.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="RemoteCtrl.h">
+    <ClInclude Include="RemoteServer.h">
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="pch.h">
@@ -32,7 +32,7 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="RemoteCtrl.cpp">
+    <ClCompile Include="RemoteServer.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="pch.cpp">
@@ -40,7 +40,7 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ResourceCompile Include="RemoteCtrl.rc">
+    <ResourceCompile Include="RemoteServer.rc">
       <Filter>资源文件</Filter>
     </ResourceCompile>
   </ItemGroup>
